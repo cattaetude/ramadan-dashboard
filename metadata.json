@@ -1,0 +1,7 @@
+{
+  "name": "Productive Ramadan Companion",
+  "description": "A comprehensive Ramadan toolkit featuring a daily planner, prayer checklists, and Iftar/Sehri timings with a beautiful Islamic-inspired design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
